@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about wbean1</title>
+    <link>http://wbean1.info/</link>
+    <description>Recent content on about wbean1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 May 2018 15:15:25 -0500</lastBuildDate>
+    
+	<atom:link href="http://wbean1.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://wbean1.info/posts/hello-world/</link>
+      <pubDate>Fri, 25 May 2018 15:15:25 -0500</pubDate>
+      
+      <guid>http://wbean1.info/posts/hello-world/</guid>
+      <description>Hello, World! An introduction of William Bean Hello not-so-anonymous internet user-agent. I am William Bean, a human living on Earth in the nation of the United States of America, in the state of Illinois, in the area of the Quad Cities.
+I do technology stuff for a living with a little company called [John Deere](&amp;ldquo;http://www.deere.com&amp;quot;).
+Most of my hobbies also involve tinkering with technology. I also like to do pinball, poke, legos, &amp;amp; biking.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://wbean1.info/resume/</link>
+      <pubDate>Fri, 25 May 2018 15:14:38 -0500</pubDate>
+      
+      <guid>http://wbean1.info/resume/</guid>
+      <description>Resume goes here</description>
+    </item>
+    
+  </channel>
+</rss>
