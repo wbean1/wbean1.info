@@ -2,6 +2,7 @@ baseURL = "http://wbean1.info/"
 languageCode = "en-us"
 title = "about wbean1"
 theme = "nix"
+publishDir = "docs"
 
 [params]
   GithubID = "wbean1"
