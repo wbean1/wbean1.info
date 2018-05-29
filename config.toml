@@ -24,4 +24,4 @@ publishDir = "docs"
   [[menu.header]]
     name = "resume"
     weight = 1
-    url = "/resume"
+    url = "/resume.pdf"
