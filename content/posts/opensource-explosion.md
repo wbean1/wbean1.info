@@ -55,3 +55,5 @@ Step #0.1 might be to join the dev-list / slack channel for the project and just
 Steps #1-thru-infinity: find small ways you can improve the software you use.  I am by no means an expert achiever in this area, but I have some [small](https://github.com/cloudfoundry-community/collectd-boshrelease/pull/16) [contributions](https://github.com/cloudfoundry/binary-builder/pull/17) to projects I care about.
 
 Good software takes good people working goodly together.  The benefits to basically every industry and aspect of humanity's capabilities of open source software are staggering.  And kudos to the folks driving awesome projects openly.
+
+[Some interesting open source hot-takes from the folks at github](https://blog.github.com/2018-02-08-open-source-project-trends-for-2018/)
