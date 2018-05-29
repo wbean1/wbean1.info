@@ -19,9 +19,9 @@ publishDir = "docs"
 [menu]
   [[menu.header]]
     name = "blog"
-    weight = 0
+    weight = 1
     url = "/posts"
   [[menu.header]]
     name = "resume"
-    weight = 1
+    weight = 0
     url = "/resume.pdf"
