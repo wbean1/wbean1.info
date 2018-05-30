@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on about wbean1</title>
-    <link>http://wbean1.info/posts/</link>
+    <link>https://wbean1.info/posts/</link>
     <description>Recent content in Posts on about wbean1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 May 2018 09:13:58 -0500</lastBuildDate>
     
-	<atom:link href="http://wbean1.info/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wbean1.info/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Collecting Exp during the Open Source Explosion</title>
-      <link>http://wbean1.info/posts/opensource-explosion/</link>
+      <link>https://wbean1.info/posts/opensource-explosion/</link>
       <pubDate>Tue, 29 May 2018 09:13:58 -0500</pubDate>
       
-      <guid>http://wbean1.info/posts/opensource-explosion/</guid>
+      <guid>https://wbean1.info/posts/opensource-explosion/</guid>
       <description>The Open Source Explosion It is a pretty good time to be alive if you like tinkering with computer software. There is a literal ton (I weighed it, just trust me) of free-to-use, open source software out there to take up your days, and help you accomplish crazy things, crazy efficiently.
 As you can tell from my resume, I make use of a lot of this software professionally:
  ansible apache httpd apache tomcat cloudfoundry collectd concourse docker elasticsearch grafana haproxy influxdb jenkins kibana logstash memcached mysql / mariadb nagios nginx packer postgres prometheus puppet samba sonarqube terraform  But what makes an open source project &amp;ldquo;good&amp;rdquo;?</description>
@@ -24,10 +24,10 @@ As you can tell from my resume, I make use of a lot of this software professiona
     
     <item>
       <title>Hello, World!</title>
-      <link>http://wbean1.info/posts/hello-world/</link>
+      <link>https://wbean1.info/posts/hello-world/</link>
       <pubDate>Fri, 25 May 2018 15:15:25 -0500</pubDate>
       
-      <guid>http://wbean1.info/posts/hello-world/</guid>
+      <guid>https://wbean1.info/posts/hello-world/</guid>
       <description>An introduction of William Bean Hello not-so-anonymous internet user-agent. I am William Bean, a human living on Earth in the nation of the United States of America, in the state of Illinois, in the area of the Quad Cities.
 I do web app technology stuff for a little company called John Deere.
 Most of my hobbies also involve tinkering with technology. I like to do pinball, poker, legos, &amp;amp; biking.</description>
