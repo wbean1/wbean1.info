@@ -13,7 +13,7 @@ publishDir = "docs"
   HeaderUsername = "root"
   HeaderHostname = "wbean1.info"
   Email = "wbean1@gmail.com"
-  About = "I'm a technology guy working for John Deere in Illinois.  We make some cool big equipment.  I've done app hosting of various sorts on linux for several years, and have found myself operating platforms in various clouds.  Check out my resume & blog!" 
+  About = "I'm a technology guy working for John Deere.  We make some pretty awesome big equipment.  I've done web app hosting on linux for several years, and have found myself operating platforms in various clouds.  Check out my resume & blog!" 
   ProfilePicture = "/pic.jpg"
 
 [menu]
