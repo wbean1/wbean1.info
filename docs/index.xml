@@ -6,10 +6,22 @@
     <description>Recent content on about wbean1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 May 2018 09:13:58 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 19:11:18 -0500</lastBuildDate>
     
 	<atom:link href="https://wbean1.info/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Operating a Platform</title>
+      <link>https://wbean1.info/posts/operating-a-platform/</link>
+      <pubDate>Wed, 06 Jun 2018 19:11:18 -0500</pubDate>
+      
+      <guid>https://wbean1.info/posts/operating-a-platform/</guid>
+      <description>So you want to run a platform&amp;hellip; Firstly, are you sure?
+The as-a-service revolution is well underway, as this great article from Luke Kanies spells out. See also the momentous, if not dated, PaaS for Realists. Running your own anything anymore seems to be for the birds.
+  But ok. You have your job cut out for you.
+What are some of the requirements for running this thing you&amp;rsquo;re endevouring to deliver?</description>
+    </item>
     
     <item>
       <title>Collecting Exp during the Open Source Explosion</title>
@@ -30,7 +42,7 @@ As you can tell from my resume, I make use of a lot of this software professiona
       <guid>https://wbean1.info/posts/hello-world/</guid>
       <description>An introduction of William Bean Hello not-so-anonymous internet user-agent. I am William Bean, a human living on Earth in the nation of the United States of America, in the state of Illinois, in the area of the Quad Cities.
 I do web app technology stuff for a little company called John Deere.
-Most of my hobbies also involve tinkering with technology. I like to do pinball, poker, legos, &amp;amp; biking.</description>
+Most of my hobbies also involve tinkering with technology. I enjoy pinball, poker, &amp;amp; biking with friends. You might also find me at the Quad Cities Linux User Group.</description>
     </item>
     
   </channel>

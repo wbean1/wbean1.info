@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> Operating a Platform &middot; about wbean1 </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.41" />
+
+
+<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://wbean1.info/css/nix.css">
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+
+
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" id="green-terminal" href=https://wbean1.info/>root@wbean1.info ~ $</a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="https://wbean1.info/">/home/root</a>
+				</li>
+				
+				
+				<li >
+					<a href="/posts">~/blog</a>
+				</li>
+				
+				
+				<li >
+					<a href="/resume.pdf">~/resume</a>
+				</li>
+				
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="container wrapper">
+            <h1><a href="https://wbean1.info/posts/operating-a-platform/">Operating a Platform</a></h1>
+            <span class="post-date">Jun 6, 2018 </span>
+            <div class="post-content">
+                
+
+<h1 id="so-you-want-to-run-a-platform">So you want to run a platform&hellip;</h1>
+
+<p>Firstly, are you sure?</p>
+
+<p>The as-a-service revolution is well underway, as <a href="https://medium.com/@lkanies/the-binary-future-of-software-companies-36851123ddeb">this great article from Luke Kanies</a> spells out.  See also the momentous, if not dated, <a href="http://blog.lusis.org/blog/2014/06/14/paas-for-realists/">PaaS for Realists</a>.  Running your own anything anymore seems to be for the birds.</p>
+
+
+<figure>
+    
+        <img src="/bird-shit-in-hair.jpg" />
+    
+    
+</figure>
+
+
+<p>But ok.  You have your job cut out for you.</p>
+
+<p>What are some of the requirements for running this thing you&rsquo;re endevouring to deliver?</p>
+
+<pre><code>0. **Uptime** equal-to-or-greater-than **100%**.
+</code></pre>
+
+<p>Ok.  This <em>might</em> be harder than you thought.</p>
+
+<p>Let me spell out some of the things I&rsquo;ve gleaned from actually endevouring on this in a large enterprise.</p>
+
+<ol>
+<li><p><strong>Frequent Updates</strong> -</p>
+
+<p>Systems have flaws.  People have flaws.  Shit changes.  You need to be able to deliver these changes reliably into your platform.  You need a CI/CD system.  There are many; learn a few, evaluate, implement, refine.  Get comfortable changing your platform while its running <em>before</em> you start selling it.  The more frequently you excersize a process, the less error-prone it will become.</p></li>
+
+<li><p><strong>Monitor More Everyday</strong> -</p>
+
+<p>Systems are living, breathing, entities.  Shit will happen, and you will be asked to explain why.  And expected to be able to figure out why.  And expected to make sure that thing either <strong>NEVER HAPPENS AGAIN</strong>, or can be squashed with automation before there are any effects.  System metrics, logs, events, alerts, data data data.  Make it a point to know what is going on inside your platform.</p></li>
+
+<li><p><strong>Did I Mention To Test?</strong> -</p>
+
+<p>Don&rsquo;t be the guy that wants to yolo things into prod.  Have tests.  Run them.  Have a peer.  Review each other&rsquo;s work.  Take turns shooting holes into PRs, Theories, and Tasks.  Don&rsquo;t let each other take shortcuts.  <em>RUN SYSTEM TESTS CONSTANTLY</em>, even on your test systems while you&rsquo;re trying out something new.  Literally don&rsquo;t do <em>ANYTHING</em> in prod that you&rsquo;re still uncertain of from test.</p></li>
+
+<li><p><strong>Plug Into the Community</strong> -</p>
+
+<p>Unless you&rsquo;re a super masochist, your platform is probably one that others are also operating.  Meet those people.  They probably are alive in Slack.  Or at super hip conferences.  Help other people, and contribute.</p></li>
+
+<li><p><strong>Have An Opinion</strong> -</p>
+
+<p><em>But keep an open mind</em>.  You are probably paid because you are good at analyzing a situation.  Systems need <a href="https://12factor.net/">guard rails</a>, and <a href="https://www.imdb.com/title/tt2015381/mediaviewer/rm1108790784">guardians</a>.  Have a holistic and realistic view of your system.  It probably won&rsquo;t <a href="https://www.ietf.org/rfc/rfc2324.txt">slice your bread or make you coffee</a> on day 1.</p></li>
+
+<li><p><strong>Keep The Excitement Alive</strong> -</p>
+
+<p>Not every day will be your best day.  Your system won&rsquo;t be perfect.  But it might still be pretty damn good.  And if you&rsquo;re around making it better, there is  still hope.</p></li>
+</ol>
+
+            </div>
+            
+            <div class="post-comments">
+                
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <footer class="footer text-center">
+<p>Copyright &copy; 2018 William Bean -
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>
+	and
+	<a target="_blank" href="https://github.com/LordMathis/hugo-theme-nix/">Nix</a> theme.
+</span>
+</p>
+</footer>
+
+    </body>
