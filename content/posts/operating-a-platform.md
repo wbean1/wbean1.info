@@ -1,7 +1,6 @@
 ---
 title: "Operating a Platform"
 date: 2018-06-06T19:11:18-05:00
-draft: true
 ---
 
 # So you want to run a platform...

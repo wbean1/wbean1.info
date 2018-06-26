@@ -1,7 +1,6 @@
 ---
 title: "Hello, World!"
 date: 2018-05-25T15:15:25-05:00
-draft: true
 ---
 
 ## An introduction of William Bean ##

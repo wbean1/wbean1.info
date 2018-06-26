@@ -1,7 +1,6 @@
 ---
 title: "Collecting Exp during the Open Source Explosion"
 date: 2018-05-29T09:13:58-05:00
-draft: true
 ---
 
 ## The Open Source Explosion ##
