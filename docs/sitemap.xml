@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wbean1.info/posts/making-big-changes/</loc>
+    <lastmod>2018-09-21T14:38:04-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wbean1.info/posts/getting-started-with-go-api-development/</loc>
     <lastmod>2018-06-26T13:41:45-05:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://wbean1.info/posts/</loc>
-    <lastmod>2018-06-26T13:41:45-05:00</lastmod>
+    <lastmod>2018-09-21T14:38:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,7 +45,7 @@
   
   <url>
     <loc>https://wbean1.info/</loc>
-    <lastmod>2018-06-26T13:41:45-05:00</lastmod>
+    <lastmod>2018-09-21T14:38:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   

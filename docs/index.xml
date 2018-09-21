@@ -6,10 +6,20 @@
     <description>Recent content on about wbean1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 13:41:45 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 14:38:04 -0500</lastBuildDate>
     
 	<atom:link href="https://wbean1.info/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making Big Changes</title>
+      <link>https://wbean1.info/posts/making-big-changes/</link>
+      <pubDate>Fri, 21 Sep 2018 14:38:04 -0500</pubDate>
+      
+      <guid>https://wbean1.info/posts/making-big-changes/</guid>
+      <description>Ch-ch-ch-changes   I&amp;rsquo;ve lived a life of small, iterative changes. Both personally and professionally, these types of changes are generally safest. However, this year I&amp;rsquo;ve tossed this strategy out the proverbial window:
+ New(er) House - Bigger, better, and more in debt. Complete with a home-office, this has been a great move. QOL++ New Job - I&amp;rsquo;m no longer a John Deere employee! Career moves are hard, but this opportunity with Pivotal was a big change in all the right ways.</description>
+    </item>
     
     <item>
       <title>Getting Started With Go Api Development</title>
