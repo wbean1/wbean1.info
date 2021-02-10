@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about wbean1</title>
@@ -6,11 +6,7 @@
     <description>Recent content on about wbean1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 14:38:04 -0500</lastBuildDate>
-    
-	<atom:link href="https://wbean1.info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 21 Sep 2018 14:38:04 -0500</lastBuildDate><atom:link href="https://wbean1.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making Big Changes</title>
       <link>https://wbean1.info/posts/making-big-changes/</link>
@@ -30,7 +26,7 @@
       <description>Prepare to enter a restart loop I&amp;rsquo;ve been poking at using go for a side project for about a month now, and I don&amp;rsquo;t have much to show for it.
 Other than a vague feeling that &amp;gt;1000 other devs have recently made this same troublesome, looping sojourn, I&amp;rsquo;m left with not very much concrete progress.
 Two images spring to my mind:
- Back in like 1996, I had a sweet geocities webpage where I fiddled around learning html.</description>
+  Back in like 1996, I had a sweet geocities webpage where I fiddled around learning html.</description>
     </item>
     
     <item>

@@ -6,10 +6,12 @@
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="generator" content="Hugo 0.48" />
+<meta name="generator" content="Hugo 0.80.0" />
 
 
-<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
 
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -17,13 +19,18 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 
 <link rel="stylesheet" href="https://wbean1.info/css/nix.css">
 
 
+
+
+
 <link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+
+
 
 
 
@@ -41,20 +48,30 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" id="green-terminal" href=https://wbean1.info/>root@wbean1.info ~ $</a>
+      <a class="navbar-brand" id="green-terminal" href='https://wbean1.info/'>
+        root@wbean1.info ~ $
+      </a>
 		</div>
 
 		
 		<div class="collapse navbar-collapse" id="navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
 				<li>
-					<a href="https://wbean1.info/">/home/root</a>
-				</li>
+					<a href='https://wbean1.info/'>/home/root</a>
+        </li>
+        
 				
 				
 				<li class="dropdown">
                     
-            		<a href="/posts">~/blog</a>
+            		<a href="https://wbean1.info/posts">~/blog</a>
+            		
+        		</li>
+        		
+				
+				<li class="dropdown">
+                    
+            		<a href="https://wbean1.info/resume.pdf">~/resume</a>
             		
         		</li>
         		
@@ -65,18 +82,14 @@
 </nav>
 </header>
 
-        <div class="container wrapper">
-            <h1><a href="https://wbean1.info/posts/opensource-explosion/">Collecting Exp during the Open Source Explosion</a></h1>
-            <span class="post-date">May 29, 2018 </span>
-            <div class="post-content">
-                
-
-<h2 id="the-open-source-explosion">The Open Source Explosion</h2>
-
+        <div class="flex-wrapper">
+            <div class="container wrapper">
+                <h1><a href="https://wbean1.info/posts/opensource-explosion/">Collecting Exp during the Open Source Explosion</a></h1>
+                <span class="post-date">2018-05-29 </span>
+                <div class="post-content">
+                    <h2 id="the-open-source-explosion">The Open Source Explosion</h2>
 <p>It is a pretty good time to be alive if you like tinkering with computer software.  There is a literal ton (I weighed it, just trust me) of free-to-use, open source software out there to take up your days, and help you accomplish crazy things, crazy efficiently.</p>
-
 <p>As you can tell from my <a href="http://wbean1.info/resume.pdf">resume</a>, I make use of a lot of this software professionally:</p>
-
 <ul>
 <li><a href="https://www.ansible.com">ansible</a></li>
 <li><a href="https://httpd.apache.org">apache httpd</a></li>
@@ -104,41 +117,30 @@
 <li><a href="https://sonarqube.org">sonarqube</a></li>
 <li><a href="https://www.terraform.io">terraform</a></li>
 </ul>
-
 <p>But what makes an open source project <em>&ldquo;good&rdquo;</em>?  It all comes down to (in priority order):</p>
-
 <ol>
 <li><strong>Useful</strong> - the software must satisfy a need in an way that makes achieving some valuable result, easier.  Some of the value is in the result, some of the value is in the ease in which it is achieved.  Every single software I&rsquo;ve listed above clears this primary hurdle exceptionally well, or it probably wouldn&rsquo;t be on this list.</li>
 <li><strong>Well Documented</strong> - the software must contain instructions that cover a majority of its functions or configurations.  In some cases, especially early in a software&rsquo;s lifecycle, industry adoption &amp; discussions can fill in gaps here.  But for the long haul, people will git pissed if everything is hidden in tribal knowledge, discussions on internet forums, or deep in bug trackers.  And the software will lose adoption &amp; thus potential contributors.</li>
 <li><strong>Ease of Contribution</strong> - the community surrounding the software makes contributing as frictionless as possible.  Most repos contain instructions on how to get started contributing to the project (setup local testing, etc&hellip;).  But there are other factors of frictionless contribution like&hellip; how complex is the surrounding ecosystem?, what are the personalities of the stewarding entities?, how &ldquo;open&rdquo; to change are the stewarding entities?</li>
 </ol>
-
 <p>Delivering on all 3 of these attributes deserves a virtual High Five, and I&rsquo;m constantly amazed there is so much software in such a good state.</p>
-
 <h2 id="gaining-exp">Gaining Exp</h2>
-
 <p>So you, like me, use a bunch of this software.  What can you do to transition from Corporate Leech towards an Altruistic Community Contributor?</p>
-
 <p>Step #0 might be a battle to contribute.  Depending on your corporate culture, you might have to gain approval to sign &ldquo;Contributor License Agreements&rdquo;, or forge inroads with your Legal team to make contributing back more frictionless.  Most of the time this is a simple conversation around why it makes business sense for software improvements to be upstreamed.  Do this.</p>
-
 <p>Step #0.1 might be to join the dev-list / slack channel for the project and just be helpful.  If someone encounters a problem that you&rsquo;ve seen before, <a href="https://mail-archives.apache.org/mod_mbox/tomcat-users/201306.mbox/%3C1D613E56B17612448C6E50D9FD48A49307BF6C@EDXMB64.jdnet.deere.com%3E">help them out</a>!</p>
-
 <p>Steps #1-thru-infinity: find small ways you can improve the software you use.  I am by no means an expert achiever in this area, but I have some <a href="https://github.com/cloudfoundry-community/collectd-boshrelease/pull/16">small</a> <a href="https://github.com/cloudfoundry/binary-builder/pull/17">contributions</a> to projects I care about.</p>
-
 <p>Good software takes good people working goodly together.  The benefits to basically every industry and aspect of humanity&rsquo;s capabilities of open source software are staggering.  And kudos to the folks driving awesome projects openly.</p>
-
 <p><a href="https://blog.github.com/2018-02-08-open-source-project-trends-for-2018/">Some interesting open source hot-takes from the folks at github</a></p>
 
-            </div>
-            
-            <div class="post-comments">
+                </div>
+                
+                <div class="post-comments">
+                    
+                </div>
                 
             </div>
-            
-            <div class="push"></div>
-        </div>
-        <footer class="footer text-center">
-<p>Copyright &copy; 2018 William Bean -
+            <footer class="footer text-center">
+<p>Copyright &copy; 2021 William Bean -
 <span class="credit">
 	Powered by
 	<a target="_blank" href="https://gohugo.io">Hugo</a>
@@ -148,4 +150,5 @@
 </p>
 </footer>
 
+        </div>
     </body>
