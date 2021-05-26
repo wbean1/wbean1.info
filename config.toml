@@ -13,7 +13,7 @@ publishDir = "docs"
   HeaderUsername = "root"
   HeaderHostname = "wbean1.info"
   Email = "wbean1@gmail.com"
-  About = "I'm a technologist working at VMware.  I curate infrastructure, write package & ship software, and improve technology outcomes for our customers.  Check out my blog, or review the resume!"
+  About = "I'm a technologist working on Shopify's Production Engineering team.  I curate infrastructure, write package & ship software, and make commerce better for everyone.  Check out my blog, or review the resume!"
   ProfilePicture = "/pic.jpg"
 
 [menu]
