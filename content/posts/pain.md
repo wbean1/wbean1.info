@@ -94,3 +94,5 @@ I took some pictures, sent to my Dr. and got put on prednisone for the 3rd time 
 Yeah thats pretty much it.  Its been a rough year in the pain department, not gonna lie.  I guess my take away from this is if you ever are in serious pain, I sincerely hope it doesn't last long.  Take intense short-lived pain over long-term constant pain.
 
 Someone has said some bullshit about pain making you stronger, or pain letting you know you're alive.  Thats some dumb shit.  Pain sucks.  Be thankful for all the pain-free moments in your life.
+
+{{< figure src="/pain.jpg" title="hide the pain, harold" width="300px" link="https://knowyourmeme.com/memes/hide-the-pain-harold">}}
