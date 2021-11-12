@@ -97,6 +97,7 @@ Is `LIFE == PAIN` though?  I'm not sure.  There are somethings that are constant
 * being aware of your consciousness without being aware of the reason for it
 * knowing you will one day die, the steady tick of your doom impending
 * getting older, your body and mind atrophying
+* knowing your impact on the world is small, and you will likely be forgotten soon after death (if not before)
 * in dark moments of actual constant physical pain, you feel very much alone
 
 But I'd say this is all counter-weighted by life being overall a pretty good experience.
