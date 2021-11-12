@@ -93,6 +93,14 @@ I took some pictures, sent to my Dr. and got put on prednisone for the 3rd time 
 
 Yeah thats pretty much it.  Its been a rough year in the pain department, not gonna lie.  I guess my take away from this is if you ever are in serious pain, I sincerely hope it doesn't last long.  Take intense short-lived pain over long-term constant pain.
 
+Is `LIFE == PAIN` though?  I'm not sure.  There are somethings that are constantly painful about life, like:
+* being aware of your consciousness without being aware of the reason for it
+* knowing you will one day die, the steady tick of your doom impending
+* getting older, your body and mind atrophying
+* in dark moments of actual constant physical pain, you feel very much alone
+
+But I'd say this is all counter-weighted by life being overall a pretty good experience.
+
 Someone has said some bullshit about pain making you stronger, or pain letting you know you're alive.  Thats some dumb shit.  Pain sucks.  Be thankful for all the pain-free moments in your life.
 
 {{< figure src="/pain.jpg" title="hide the pain, harold" width="300px" link="https://knowyourmeme.com/memes/hide-the-pain-harold">}}
