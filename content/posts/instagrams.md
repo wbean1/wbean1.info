@@ -8,4 +8,4 @@ I started using instagram shortly before the twins were born, early 2011.  This 
 
 Here are some of my favorite pics from my feed.
 
-instagram So6gWanuJ3vUYGZ3esiJDjenX_iiaFQ5AfYiU0 hidecaption >}}
+{{< instagram So6gWanuJ3vUYGZ3esiJDjenX_iiaFQ5AfYiU0 hidecaption >}}
