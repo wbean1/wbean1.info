@@ -1,0 +1,22 @@
+---
+title: "Conscious Ramblings"
+date: 2024-03-20T07:28:51-05:00
+---
+
+## I think therefore I am
+
+Theres really not much more "proof" of existance existing besides this saying from some dead guy.  Consciousness may be the most "special" thing; it could determine whether this existance is a single-player role-playing game (RPG), or a massively multiplayer online role-playing game (MMORPG).  Its perhaps impossible to have "proof" that other people besides yourself have the same level of conscious thought as you; however I find that to be very likely given there is so much philisophical writing on consciousness that I can identify with.  It would be exceedingly uncanny if something could write about the consciousness that I am experiencing without experiencing it themselves.  But it could be a world seeded by such things by some "creator" who has themselves experienced consciousness, but that seems akin to God creating dinosaur bones to mislead the non-believers.
+
+So lets run with: all humans have consciousness.  What a weird fucking thing though, right?  Like being able to simultaneously think about moving part of your meat body, feeling the air around your meat body, and also sometimes moving your meat body without even thinking?  And internal monologue is a trip, right?  Like you're talking in your own brain... with words that you _could_ say.  And sometimes maybe you go unconscious for a little rest, and then your brain has somewhat random movie dreams and memories and feelings?
+
+I've read a few articles about scientists narrowing down on the chemical/physiological "cause" of consciousness.  That headline is particularly jarring in my news feed, but the content usually leaves me lacking.  It generally boils down to:
+1. oh hey, look, remember how we can take away conciousness with anesthesia?  well we kinds know a bit more about how/why that works
+2. blah blah blah, maybe quantum entanglement of chemicals in certain areas of our brains?
+
+## I had a Dream
+
+Last night I had a dream I was sitting inside on a warm couch with my 5 year old son, looking out a window as it was about to storm.  We could hear the rumbling thunder, and it was looking to be a pretty peaceful springtime evening storm that rolls slowly by without much fuss.  It started raining, softly at first, but increasing amounts.  The wind was just starting to whip up a bit, and the clouds were darkening the skies quickly.  Suddenly there were multiple planes in the sky out of nowhere.  "Strange", I thought, I wouldn't think they'd want to fly through a storm.  Then a few parachuters appeared.  "Very Strange, that cannot be safe___" my thought was cut-off by the simultaneous striking of lightning amongst the parachuters, and seeing one of the sky-divers fall below safe levels without their parachute deploying, going to land (splat) well within the sight of my window.  It seemed multiple people were falling in this situation, whether due to chute malfunction or the storm, I have no idea.  But I saw that first one's legs moving in terror as they fell.  I covered my son's eyes and closed my own before impact, saying "oh no, oh no, oh no".  He repeated "oh no".  And the dream ended.
+
+## What if
+
+I don't know much about quantum entanglement.  Nothing really, besides its like when the state of a particle takes on two positions/spins simultaneously, and its pair, which can be infinite distance away likewise has both positions/spins simultaneously.  However if you measure one particle's spin in an instant, you are guarenteed that the pair's spin is the exact opposite.  Something like that; I'm sure I'm butchering it.  Anyways, so the thought is that you have some amount of quantum particles in your brain that somehow give rise to things like conscious thought, free will, random reations, etc... basically everything that, paired with your memory storage, makes you you.  I sort of think of this as the driver of the short-term io loop that continuously polls input sensors and stored memories, and takes care of conscious and subconscious action both.  Like just a spark of "randomness" but not exactly random; its driven by _something_ potentially far away... maybe some observer far away who owns the particles entangled in your brain and is driving your character.  And **what if** dreams are when they release control of those particles and you observe them.  How terrifying.
