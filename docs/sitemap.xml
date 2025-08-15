@@ -2,62 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wbean1.info/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-05T15:56:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lifes-a-journey/</loc>
+    <lastmod>2024-06-05T15:56:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-05T15:56:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/consciousness/</loc>
     <lastmod>2024-03-20T07:28:51-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/consciousness/</loc>
-    <lastmod>2024-03-20T07:28:51-05:00</lastmod>
-  </url><url>
-    <loc>https://wbean1.info/posts/</loc>
-    <lastmod>2024-03-20T07:28:51-05:00</lastmod>
-  </url><url>
-    <loc>https://wbean1.info/posts/blueprint/</loc>
+    <loc>http://localhost:1313/posts/blueprint/</loc>
     <lastmod>2023-06-22T14:43:15-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/carrying-comfort/</loc>
+    <loc>http://localhost:1313/posts/carrying-comfort/</loc>
     <lastmod>2022-09-12T20:10:49-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/collecting-wins/</loc>
+    <loc>http://localhost:1313/posts/collecting-wins/</loc>
     <lastmod>2022-06-08T21:50:39-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/getting-old/</loc>
+    <loc>http://localhost:1313/posts/getting-old/</loc>
     <lastmod>2022-01-17T10:15:47-06:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/pain/</loc>
+    <loc>http://localhost:1313/posts/pain/</loc>
     <lastmod>2021-11-11T16:21:34-06:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/the-things-you-own/</loc>
+    <loc>http://localhost:1313/posts/the-things-you-own/</loc>
     <lastmod>2021-07-22T08:22:10-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/adversity-motivation-and-the-expanse/</loc>
+    <loc>http://localhost:1313/posts/adversity-motivation-and-the-expanse/</loc>
     <lastmod>2021-04-01T08:38:27-06:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/keeping-it-positive/</loc>
+    <loc>http://localhost:1313/posts/keeping-it-positive/</loc>
     <lastmod>2021-02-15T07:51:30-06:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/crazy-theories/</loc>
+    <loc>http://localhost:1313/posts/crazy-theories/</loc>
     <lastmod>2021-02-12T09:44:53-06:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/writing/</loc>
+    <loc>http://localhost:1313/posts/writing/</loc>
     <lastmod>2021-02-11T08:04:48-06:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/making-big-changes/</loc>
+    <loc>http://localhost:1313/posts/making-big-changes/</loc>
     <lastmod>2018-09-21T14:38:04-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/getting-started-with-go-api-development/</loc>
+    <loc>http://localhost:1313/posts/getting-started-with-go-api-development/</loc>
     <lastmod>2018-06-26T13:41:45-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/operating-a-platform/</loc>
+    <loc>http://localhost:1313/posts/operating-a-platform/</loc>
     <lastmod>2018-06-06T19:11:18-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/opensource-explosion/</loc>
+    <loc>http://localhost:1313/posts/opensource-explosion/</loc>
     <lastmod>2018-05-29T09:13:58-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/posts/hello-world/</loc>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2018-05-25T15:15:25-05:00</lastmod>
   </url><url>
-    <loc>https://wbean1.info/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://wbean1.info/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
